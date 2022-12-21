@@ -1,5 +1,4 @@
-<img src="https://www.aalpha.net/wp-content/uploads/2020/12/full-stack-development.gif" width="1012" 
-     height="306">
+
 <h1 align="center">Hi 👋, I'm Mihir Dabhi</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
