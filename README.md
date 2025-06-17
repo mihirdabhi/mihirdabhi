@@ -1,9 +1,7 @@
 <img src="https://www.aalpha.net/wp-content/uploads/2020/12/full-stack-development.gif" width="1012" height="306">
 
 <h1 align="center">Hi 👋, I'm Mihir Dabhi</h1>
-<h3 align="center">A passionate Data Analyst & Cloud Learner from India</h3>
-
-<img align="right" alt="coding" width="400" src="https://codersera.com/blog/wp-content/uploads/2019/07/BLOG-23-L-3.jpg">
+<h3 align="center">A passionate Data Analyst & Cloud Learner from London, Uk</h3>
 
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=mihirdabhi&label=Profile%20views&color=0e75b6&style=flat" alt="mihirdabhi" />
